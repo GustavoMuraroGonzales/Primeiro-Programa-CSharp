@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Projetos\\PrimeiroPrograma\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Projetos\\Primeiro-Programa-CSharp\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
       "projectName": "PrimeiroPrograma",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Projetos\\PrimeiroPrograma\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Projetos\\Primeiro-Programa-CSharp\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Projetos\\PrimeiroPrograma\\PrimeiroPrograma\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Projetos\\Primeiro-Programa-CSharp\\PrimeiroPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
